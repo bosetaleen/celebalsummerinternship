@@ -1,0 +1,5 @@
+﻿EVALUATE
+SELECTCOLUMNS (
+    'Total Orders',
+    "CustomerID", 'Total Orders'[CustomerID]
+)
